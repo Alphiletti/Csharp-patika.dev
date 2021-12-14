@@ -1,0 +1,16 @@
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.exe
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.deps.json
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.runtimeconfig.json
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.runtimeconfig.dev.json
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.dll
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\ref\konsol-programlama.dll
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\bin\Debug\net5.0\konsol-programlama.pdb
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.AssemblyInfo.cs
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.dll
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\ref\konsol-programlama.dll
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.pdb
+C:\Users\Alp Eren\Desktop\Patika\konsol-programlama\obj\Debug\net5.0\konsol-programlama.genruntimeconfig.cache
