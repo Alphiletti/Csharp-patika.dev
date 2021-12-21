@@ -1,0 +1,15 @@
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\recursive.exe
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\recursive.deps.json
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\recursive.runtimeconfig.json
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\recursive.dll
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\ref\recursive.dll
+C:\Users\Alp Eren\Desktop\Patika\recursive\bin\Debug\net6.0\recursive.pdb
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.AssemblyInfo.cs
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.dll
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\ref\recursive.dll
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.pdb
+C:\Users\Alp Eren\Desktop\Patika\recursive\obj\Debug\net6.0\recursive.genruntimeconfig.cache
