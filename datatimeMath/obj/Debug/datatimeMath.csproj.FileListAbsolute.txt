@@ -1,0 +1,6 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\bin\Debug\datatimeMath.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\bin\Debug\datatimeMath.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\bin\Debug\datatimeMath.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\obj\Debug\datatimeMath.csprojResolveAssemblyReference.cache
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\obj\Debug\datatimeMath.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\datatimeMath\datatimeMath\obj\Debug\datatimeMath.pdb
