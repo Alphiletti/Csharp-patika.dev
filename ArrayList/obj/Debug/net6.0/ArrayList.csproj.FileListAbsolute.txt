@@ -1,0 +1,15 @@
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ArrayList.exe
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ArrayList.dll
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.dll
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+C:\Users\Alp Eren\Desktop\Patika\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
