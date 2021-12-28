@@ -1,0 +1,15 @@
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.exe
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.deps.json
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.dll
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\ref\Koleksiyonlar.dll
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.pdb
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.dll
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\ref\Koleksiyonlar.dll
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.pdb
+C:\Users\Alp Eren\Desktop\Patika\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.genruntimeconfig.cache
