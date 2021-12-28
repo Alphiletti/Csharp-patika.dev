@@ -1,0 +1,15 @@
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\ref\Dictionary.dll
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\Alp Eren\Desktop\Patika\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
