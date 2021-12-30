@@ -1,6 +1,0 @@
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\Koleksiyonlar-Soru-1.exe.config
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\Koleksiyonlar-Soru-1.exe
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\bin\Debug\Koleksiyonlar-Soru-1.pdb
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\Koleksiyonlar-Soru-1.csprojResolveAssemblyReference.cache
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\Koleksiyonlar-Soru-1.exe
-C:\Users\Alp\Documents\SharpDevelop Projects\Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1\obj\Debug\Koleksiyonlar-Soru-1.pdb
