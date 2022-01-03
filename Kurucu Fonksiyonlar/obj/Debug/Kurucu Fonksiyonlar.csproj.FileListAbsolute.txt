@@ -1,0 +1,5 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Kurucu Fonksiyonlar\bin\Debug\Kurucu Fonksiyonlar.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Kurucu Fonksiyonlar\bin\Debug\Kurucu Fonksiyonlar.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Kurucu Fonksiyonlar\bin\Debug\Kurucu Fonksiyonlar.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Kurucu Fonksiyonlar\obj\Debug\Kurucu Fonksiyonlar.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Kurucu Fonksiyonlar\obj\Debug\Kurucu Fonksiyonlar.pdb
