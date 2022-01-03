@@ -1,0 +1,5 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Encapsulation-Property\bin\Debug\Encapsulation-Property.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Encapsulation-Property\bin\Debug\Encapsulation-Property.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Encapsulation-Property\bin\Debug\Encapsulation-Property.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Encapsulation-Property\obj\Debug\Encapsulation-Property.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Encapsulation-Property\obj\Debug\Encapsulation-Property.pdb
