@@ -1,0 +1,5 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Enum\bin\Debug\Enum.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Enum\bin\Debug\Enum.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Enum\bin\Debug\Enum.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Enum\obj\Debug\Enum.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Enum\obj\Debug\Enum.pdb
