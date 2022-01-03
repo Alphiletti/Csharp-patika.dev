@@ -1,0 +1,6 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\bin\Debug\ClassFieldMetot.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\bin\Debug\ClassFieldMetot.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\bin\Debug\ClassFieldMetot.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\obj\Debug\ClassFieldMetot.csprojResolveAssemblyReference.cache
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\obj\Debug\ClassFieldMetot.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\ClassFieldMetot\obj\Debug\ClassFieldMetot.pdb
