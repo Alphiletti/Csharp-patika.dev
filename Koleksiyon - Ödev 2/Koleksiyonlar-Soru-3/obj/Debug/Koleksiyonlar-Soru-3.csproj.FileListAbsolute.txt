@@ -1,0 +1,5 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.pdb
