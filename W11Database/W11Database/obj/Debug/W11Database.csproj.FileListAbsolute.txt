@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\W11Database\W11Database\bin\Debug\W11Database.exe.config
+C:\Users\user\source\repos\W11Database\W11Database\bin\Debug\W11Database.exe
+C:\Users\user\source\repos\W11Database\W11Database\bin\Debug\W11Database.pdb
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.Form1.resources
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.Properties.Resources.resources
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.csproj.GenerateResource.cache
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.exe
+C:\Users\user\source\repos\W11Database\W11Database\obj\Debug\W11Database.pdb
