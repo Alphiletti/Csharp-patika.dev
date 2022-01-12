@@ -1,0 +1,5 @@
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Proje 1 - Telefon Rehberi\bin\Debug\Proje 1 - Telefon Rehberi.exe.config
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Proje 1 - Telefon Rehberi\bin\Debug\Proje 1 - Telefon Rehberi.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Proje 1 - Telefon Rehberi\bin\Debug\Proje 1 - Telefon Rehberi.pdb
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Proje 1 - Telefon Rehberi\obj\Debug\Proje 1 - Telefon Rehberi.exe
+C:\Users\Alp\Documents\SharpDevelop Projects\ClassFieldMetot\Proje 1 - Telefon Rehberi\obj\Debug\Proje 1 - Telefon Rehberi.pdb
