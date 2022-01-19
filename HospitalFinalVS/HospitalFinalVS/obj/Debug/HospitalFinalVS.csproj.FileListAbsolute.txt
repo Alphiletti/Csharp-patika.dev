@@ -1,0 +1,10 @@
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\bin\Debug\HospitalFinalVS.exe.config
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\bin\Debug\HospitalFinalVS.exe
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\bin\Debug\HospitalFinalVS.pdb
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.csproj.AssemblyReference.cache
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.Form1.resources
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.Properties.Resources.resources
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.csproj.GenerateResource.cache
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.exe
+C:\Users\Alp Eren\source\repos\HospitalFinalVS\HospitalFinalVS\obj\Debug\HospitalFinalVS.pdb
